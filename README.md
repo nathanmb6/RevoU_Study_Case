@@ -1,6 +1,6 @@
 # RevoU_Study_Case
     
-List Pertanyaan:
+# List Pertanyaan:
 
 1. Buatkan Data total jumlah fasilitas setiap daerah Kabupaten
 2. Cek Berapa banyak Jumlah Posyandu & Puskesmas daerah Kabupaten, urutkan berdasarkan Puskesmas
@@ -15,8 +15,8 @@ List Pertanyaan:
 11. Buatkan Data penduduk berdasarkan APBN & APBD setiap Kota
 12. Bandingkan Total Jaminan Pekerja setiap Kota
     
-Catatan:
+# Catatan:
 Seluruh Analisis di urutkan dari Data Terkecil
 
-Data Visualization:
+# Data Visualization:
 https://public.tableau.com/app/profile/nahtaniel.iskandar/viz/RevoU_Study_Case/DashboardAnalisisKota
