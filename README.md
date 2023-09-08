@@ -15,7 +15,7 @@
 11. Create data for the population based on regional budgets (APBN & APBD) in each city.
 12. Compare the total number of worker insurance beneficiaries in each city.
     
-# Catatan:
+# Note:
 All analyses are sorted from the smallest data.
 
 # Data Visualization:
